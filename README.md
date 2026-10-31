@@ -15,11 +15,11 @@ Y - Sound Voice — PUBLICAÇÃO NO GITHUB PAGES
 
 6. Aguarda a publicação e abre:
    
-   https://TEU-UTILIZADOR.github.io/y-sound-voice-legal/
+   https://ipsloN13.github.io/y-sound-voice-legal/
 
-   https://TEU-UTILIZADOR.github.io/y-sound-voice-legal/terms.html
+   https://ipsloN13.github.io/y-sound-voice-legal/terms.html
 
-   https://TEU-UTILIZADOR.github.io/y-sound-voice-legal/privacy.html
+   https://ipsloN13.github.io/y-sound-voice-legal/privacy.html
 
 8. Confirma que as páginas estão acessíveis publicamente e copia os dois últimos URLs para o Discord Developer Portal.
 
