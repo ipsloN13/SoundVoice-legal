@@ -15,10 +15,12 @@ Y - Sound Voice — PUBLICAÇÃO NO GITHUB PAGES
 
 6. Aguarda a publicação e abre:
    https://TEU-UTILIZADOR.github.io/y-sound-voice-legal/
+
    https://TEU-UTILIZADOR.github.io/y-sound-voice-legal/terms.html
+
    https://TEU-UTILIZADOR.github.io/y-sound-voice-legal/privacy.html
 
-7. Confirma que as páginas estão acessíveis publicamente e copia os dois últimos URLs para o Discord Developer Portal.
+8. Confirma que as páginas estão acessíveis publicamente e copia os dois últimos URLs para o Discord Developer Portal.
 
 
 Nota: o GitHub Pages exige um repositório público nos planos gratuitos usuais. Os URLs acima são exemplos e só funcionarão após publicação.
