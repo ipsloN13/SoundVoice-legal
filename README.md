@@ -14,6 +14,7 @@ Y - Sound Voice — PUBLICAÇÃO NO GITHUB PAGES
 5. No repositório, abre Settings > Pages. Em Build and deployment, escolhe Deploy from a branch, branch main e pasta /(root). Guarda.
 
 6. Aguarda a publicação e abre:
+   
    https://TEU-UTILIZADOR.github.io/y-sound-voice-legal/
 
    https://TEU-UTILIZADOR.github.io/y-sound-voice-legal/terms.html
